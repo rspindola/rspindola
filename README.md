@@ -5,7 +5,7 @@
 #### Creative Developer crafting high-performance, scalable web solutions for 7+ years
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-renatospindola.tech-000000?style=flat-square&logo=firefox&logoColor=FF7139)](https://renatospindola.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatospindola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rspindola)
 
 <br/>
 
