@@ -66,8 +66,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.44 %
-Other                            ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
